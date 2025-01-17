@@ -39,8 +39,8 @@ const Hero = () => {
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
             Two tag lines or sm about murious ...
           </p>
-          <Button href="/pricing" white>
-            Get started
+          <Button href="/pricing" className="text-xl"white>
+            Register Now
           </Button>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
