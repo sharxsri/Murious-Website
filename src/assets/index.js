@@ -99,7 +99,7 @@ export {
   loading,
   background,
   curve,
-  robot,
+  murious,
   heroBackground,
   curve1,
   curve2,
