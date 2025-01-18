@@ -5,6 +5,7 @@ import Section from "./Section";
 const Benefits = () => {
   return (
     <Section id="events">
+      <Heading className="md:max-w-md lg:max-w-2xl text-yellow-400" title="Insert countdown like previous website here!" />
       <div className="container relative z-2">
         <Heading className="md:max-w-md lg:max-w-2xl" title="Events" />
         <div className="image-carousel-container">
