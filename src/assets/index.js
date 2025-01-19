@@ -22,8 +22,9 @@ import loading from "./loading.png";
 import background from "./background.jpg";
 
 import curve from "./hero/curve.png";
-import robot from "./hero/robot.jpg";
+import murious from "./hero/murious.png";
 import heroBackground from "./hero/hero-background.jpg";
+import dominos from './dominos.png';
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
@@ -83,6 +84,7 @@ export {
   brainwaveSymbol,
   brainwaveWhiteSymbol,
   play,
+  dominos,
   gradient,
   smallSphere,
   grid,
@@ -99,7 +101,7 @@ export {
   loading,
   background,
   curve,
-  robot,
+  murious,
   heroBackground,
   curve1,
   curve2,
