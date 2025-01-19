@@ -1,11 +1,10 @@
 import { companyLogos } from "../constants";
+import Heading from "./Heading";
 
 const CompanyLogos = ({ className }) => {
   return (
     <div className={className}>
-      <h5 className="tagline mb-6 text-center text-n-1/50">
-        Helping people create beautiful content at
-      </h5>
+      <Heading className="md:max-w-md lg:max-w-2xl" title="Sponsors" />
       <ul className="flex">
         {companyLogos.map((logo, index) => (
           <li
