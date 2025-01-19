@@ -7,7 +7,9 @@ const Benefits = () => {
     <Section id="events">
       <div className="container relative z-2">
         <Heading className="md:max-w-md lg:max-w-2xl" title="Events" />
-        <div className="image-carousel-container">
+        <div className="image-carousel-container h-svh" style={{
+          "maxHeight": "32.5em"
+        }}>
           <Carousel
             className="rounded-xl"
             prevArrow={({ handlePrev }) => (
