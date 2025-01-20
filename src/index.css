@@ -86,3 +86,23 @@
 .-rotate-360 {
   @apply rotate-[-360deg]
 }
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #11111c;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #774aad;  
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ac6aff;
+}   
+
+*{
+  cursor: url(star-5pt-outline.svg) 12 12, auto;  
+}
