@@ -21,10 +21,10 @@ const App = () => {
           outerAlpha={0}
           hasBlendMode={true}
           innerStyle={{
-            backgroundColor: "rgb(191, 114, 211)",
+            backgroundColor: "white",
           }}
           outerStyle={{
-            border: "3px solid rgb(191, 114, 211)",
+            border: "3px solid white",
           }}
         />
         <Header />
