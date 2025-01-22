@@ -28,14 +28,6 @@ import dominos from './dominos.png';
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
-import cultural from "./collaboration/cultural.png";
-import environment from "./collaboration/environment.png"
-import koshish from "./collaboration/koshish.png";
-import literary from "./collaboration/literary.png";
-import sports from "./collaboration/sports.png";
-import theatre from "./collaboration/theatre.png";
-import tmp from "./collaboration/tmp.png"; 
-
 import jycLogo from "./collaboration/logojyc.png"
 
 import service1 from "./services/service-1.png";
@@ -141,11 +133,4 @@ export {
   telegram,
   twitter,
   jycLogo,
-  cultural,
-  environment,
-  koshish,
-  literary,
-  sports,
-  theatre,
-  tmp
 };

@@ -24,13 +24,6 @@ import {
   searchMd,
   sliders04,
   dominos,
-  cultural, 
-  environment,
-  koshish,
-  literary,
-  sports,
-  theatre,
-  tmp,
   twitter
 } from "../assets";
 
@@ -144,57 +137,6 @@ export const collabContent = [
   },
 ];
 
-export const collabApps = [
-  {
-    id: "0",
-    title: "Cultural",
-    icon: cultural,
-    width: 26,
-    height: 36,
-  },
-  {
-    id: "1",
-    title: "Environment",
-    icon: environment,
-    width: 34,
-    height: 36,
-  },
-  {
-    id: "2",
-    title: "Koshish",
-    icon: koshish,
-    width: 36,
-    height: 28,
-  },
-  {
-    id: "3",
-    title: "Literary",
-    icon: literary,
-    width: 34,
-    height: 35,
-  },
-  {
-    id: "4",
-    title: "Sports",
-    icon: sports,
-    width: 34,
-    height: 34,
-  },
-  {
-    id: "5",
-    title: "Theatre",
-    icon: theatre,
-    width: 34,
-    height: 34,
-  },
-  {
-    id: "6",
-    title: "TMP",
-    icon: tmp,
-    width: 26,
-    height: 34,
-  },
-];
 
 export const pricing = [
   {
