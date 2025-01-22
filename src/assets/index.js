@@ -30,9 +30,7 @@ import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
 import jycLogo from "./collaboration/logojyc.png"
 
-import service1 from "./services/service-1.png";
-import service2 from "./services/service-2.png";
-import service3 from "./services/service-3.png";
+import muriousLogo from "./services/muriousLogo.webp"
 
 import lines from "./pricing/lines.svg";
 import stars from "./pricing/stars.svg";
@@ -99,9 +97,6 @@ export {
   heroBackground,
   curve1,
   curve2,
-  service1,
-  service2,
-  service3,
   lines,
   stars,
   coins,
@@ -133,4 +128,5 @@ export {
   telegram,
   twitter,
   jycLogo,
+  muriousLogo
 };
