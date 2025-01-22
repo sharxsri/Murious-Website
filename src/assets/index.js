@@ -28,14 +28,7 @@ import dominos from './dominos.png';
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
-import discord from "./collaboration/discord.png";
-import figma from "./collaboration/figma.png";
-import framer from "./collaboration/framer.png";
-import notion from "./collaboration/notion.png";
-import photoshop from "./collaboration/photoshop.png";
-import protopie from "./collaboration/protopie.png";
-import raindrop from "./collaboration/raindrop.png";
-import slack from "./collaboration/slack.png";
+import jycLogo from "./collaboration/logojyc.png"
 
 import service1 from "./services/service-1.png";
 import service2 from "./services/service-2.png";
@@ -76,6 +69,7 @@ import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
 
+
 export {
   brainwave,
   check,
@@ -105,14 +99,6 @@ export {
   heroBackground,
   curve1,
   curve2,
-  discord,
-  figma,
-  framer,
-  notion,
-  photoshop,
-  protopie,
-  raindrop,
-  slack,
   service1,
   service2,
   service3,
@@ -146,4 +132,5 @@ export {
   instagram,
   telegram,
   twitter,
+  jycLogo,
 };
