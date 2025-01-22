@@ -5,11 +5,13 @@ import Section from "./Section";
 import Arrow from "../assets/svg/Arrow";
 import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/svg/ClipPath";
+import Countdown from "./Countdown/Countdown"
 
 const Benefits = () => {
   return (
     <Section id="events">
-      <Heading className="md:max-w-md lg:max-w-2xl text-yellow-400" title="Insert countdown like previous website here!" />
+      <Countdown/>
+      <br/><br/><br/><br/><br/> 
       <div className="container relative z-2">
         <Heading className="md:max-w-md lg:max-w-2xl" title="Events" />
         <div
