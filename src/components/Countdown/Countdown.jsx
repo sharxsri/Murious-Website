@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./Countdown.css";
+import "../Countdown/Countdown.css";
 
 import FlipClockCountdown from "@leenguyen/react-flip-clock-countdown";
 import "@leenguyen/react-flip-clock-countdown/dist/index.css";
