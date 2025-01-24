@@ -33,6 +33,31 @@
         }
     ],
 
+    "teamleads" : [
+        {
+            "id": 1,
+            "name": "Mayank Kumar",
+            "designation": "Mentor",
+            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp","linkedinUrl": "https://www.linkedin.com/in/racinmk/",
+            "instagramUrl": "https://www.instagram.com/racinmk/"
+        },
+        {
+            "id": 2,
+            "name": "Aditya Sood",
+            "designation": "Mentor",
+            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/aditya-s-140312233/",
+            "instagramUrl": ""
+        },
+        {
+            "id": 3,
+            "name": "Anshul Sharma",
+            "designation": "Mentor",
+            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/anshul-sharma-655817216/",
+            "instagramUrl": "https://www.instagram.com/anshul_03_/"
+        }
+    ],
     "contributors" : [
         {
             "id": 1,

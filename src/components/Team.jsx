@@ -2,6 +2,7 @@ import React from 'react';
 import TeamCard from '../components/TeamCard';
 import '/css/Team.css';
 import { mentors, contributors } from '../constants/team.json';
+import Section from './Section';
 // import Animesh from "../images/Animesh.webp";
 // import Mayank from "../images/Mayank.jpg";
 
@@ -141,6 +142,11 @@ const contributors = [
 
 const Team = () => {
     return (
+        <Section>
+            <Heading
+          tag="Lorem-ipsum"
+          title="Team"
+        />
         <div className="team-container">
             <div className="team-section">
                 <h1>Mentors</h1>
@@ -162,6 +168,7 @@ const Team = () => {
                 </div>
             </div>
         </div>
+        </Section>
     );
 };
 

@@ -13,16 +13,22 @@
 }
 
 .team-section {
-    width: 95%;
+    width: 98%;
     margin-top: 2rem;
     text-align: center;
 }
+.lead-section {
+    width: 90%;
+    margin-top: 2rem;
+    text-align: center;
+}
+
 
 .team-grid {
     margin: 1rem auto;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 20px;
+    gap: 18px;
     justify-content: center;
     max-width: 1500px;
 }
