@@ -1,7 +1,7 @@
 import React from 'react';
 import TeamCard from '../components/TeamCard';
 import '/css/Team.css';
-import { mentors, contributors } from '../constants/team.json';
+import { mentors, teamleads, contributors } from '../constants/team.json';
 import Section from './Section';
 // import Animesh from "../images/Animesh.webp";
 // import Mayank from "../images/Mayank.jpg";
@@ -9,7 +9,7 @@ import Section from './Section';
 const mentors = [
     {
         "id": 1,
-        "name": "Mayank Kumar",
+        "name": "Srijan ",
         "designation": "Mentor",
         "imageUrl": Mayank,
         "linkedinUrl": "https://www.linkedin.com/in/racinmk/",
@@ -41,10 +41,45 @@ const mentors = [
     }
 ];
 
+const teamleads = [
+    {
+        "id": 1,
+        "name": "Nivi Jha",
+        "designation": "Mentor",
+        "imageUrl": Mayank,
+        "linkedinUrl": "https://www.linkedin.com/in/racinmk/",
+        "instagramUrl": "https://www.instagram.com/racinmk/"
+    },
+    {
+        "id": 2,
+        "name": "Aarya Gupta",
+        "designation": "Mentor",
+        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQFt4sjXev7FDA/profile-displayphoto-shrink_200_200/0/1668584452288?e=1710979200&v=beta&t=uqJrnFogiTutstTwGaqnawUK9VhwmKFTqtZ2TVLQmlA",
+        "linkedinUrl": "https://www.linkedin.com/in/aditya-s-140312233/",
+        "instagramUrl": ""
+    },
+    {
+        "id": 3,
+        "name": "Raavi Aggarwal",
+        "designation": "Mentor",
+        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQGkyYYomTgE6w/profile-displayphoto-shrink_200_200/0/1670225491470?e=1710979200&v=beta&t=O_kU1ZacaqLXrNaSa0XbAPG2XLUR9KLn4jRN5g4FoB4",
+        "linkedinUrl": "https://www.linkedin.com/in/anshul-sharma-655817216/",
+        "instagramUrl": "https://www.instagram.com/anshul_03_/"
+    },
+    {
+        "id": 4,
+        "name": "Manas Bajpai",
+        "designation": "Mentor",
+        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQFEovmErAbKlw/profile-displayphoto-shrink_200_200/0/1688559988133?e=1710979200&v=beta&t=iYN8jD3jmIon91DeCnAvWjp91hqrVWBT1tiVUFJJWPA",
+        "linkedinUrl": "https://www.linkedin.com/in/manas-bajpai/",
+        "instagramUrl": "https://www.instagram.com/manas.bajpai_1804/"
+    }
+];
+
 const contributors = [
     {
         "id": 1,
-        "name": "Animesh Singh",
+        "name": "Manik Kapoor",
         "designation": "Web Developer",
         "imageUrl": Animesh,
         "linkedinUrl": "https://www.linkedin.com/in/animesh07/",
@@ -52,7 +87,7 @@ const contributors = [
     },
     {
         "id": 2,
-        "name": "Samson V. Julius",
+        "name": "Rushil Sharma",
         "designation": "Web Developer",
         "imageUrl": "https://media.licdn.com/dms/image/D4D03AQE6lsn231fIBQ/profile-displayphoto-shrink_400_400/0/1692437738344?e=1715212800&v=beta&t=eGgHbk8pLDxRXUKHyD252CR6v5DGtbd4x9-Kld1B8ig",
         "linkedinUrl": "https://www.linkedin.com/in/samson-vincent-julius/",
@@ -158,6 +193,15 @@ const Team = () => {
             </div>
 
             <br />
+
+            <div className="team-section">
+                <h1>Team Leads</h1>
+                <div className="team-grid">
+                    {teamleads.map((member) => (
+                        <TeamCard key={member.id} {...member} />
+                    ))}
+                </div>
+            </div>
 
             <div className="team-section">
                 <h1>Contributors</h1>
