@@ -179,19 +179,19 @@ export const pricing = [
   },
 ];
 
-export const benefits = [
+export const studentEvents = [
   {
     id: "0",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Click-O-Mania",
+    text: "Step into the enchanting world of photography, where every click turns moments into art! Freeze emotions, capture breathtaking scenes, and find beauty in the ordinary.",
     backgroundUrl: "./src/assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "1",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Logo Remix Design",
+    text: "Get ready to make your mark in the Logo Remix Design event! This is your chance to craft a bold, innovative logo that stands Jut out from the crowd.",
     backgroundUrl: "./src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
@@ -199,16 +199,16 @@ export const benefits = [
   },
   {
     id: "2",
-    title: "Connect everywhere",
-    text: "Connect with the AI chatbot from anywhere, on any device, making it more accessible and convenient.",
+    title: "Digital Scavenger Hunt",
+    text: "Embark on an exciting adventure where you solve intricate tech puzzles to discover hidden QR codes Scattered across the campus.",    
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,
   },
   {
     id: "3",
-    title: "Fast responding",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Code Cleanse",
+    text: "Unleash your inner code detective and embark on a quest to uncover hidden errors lurking within lines of Code.",    
     backgroundUrl: "./src/assets/benefits/card-4.svg",
     iconUrl: benefitIcon4,
     imageUrl: benefitImage2,
@@ -216,34 +216,84 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Ask anything",
-    text: "Lets users quickly find answers to their questions without having to search through multiple sources.",
+    title: "Innovation Derby",
+    text: "Step into Innovation Derby and bring your creative solutions to real-world challenges. Collaborate with others and pitch your ideas to a panel of judges.",    
     backgroundUrl: "./src/assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
     imageUrl: benefitImage2,
   },
   {
     id: "5",
-    title: "Improve everyday",
-    text: "The app uses natural language processing to understand user queries and provide accurate and relevant responses.",
+    title: "Reel Rumble",
+    text: "Create a compelling reel around a surprise theme. Use visuals, music, and effects to engage and captivate your audience.",    
+    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+  },
+  {
+    id: "6",
+    title: "Guess The Game",
+    text: "A fun challenge where players try to identify a video game based on a series of clues. Each clue reveals something about the game's story, characters, or gameplay mechanics. The goal is guess the game before time runs out!",    
+    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+  },
+  {
+    id: "7",
+    title: "Blind Coding",
+    text: "An exciting challenge where participants test their programming skills by writing code without seeing their screen.",    
+    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+  },
+  {
+    id: "8",
+    title: "Make It Print",
+    text: "Unleash your creativity at Make It Print, the ultimate competition for designing trendy T-shirts and hoodies.",    
+    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+  },
+  {
+    id: "9",
+    title: "Quize",
+    text: "Dive into the world of innovation with QuizE, a thrilling quiz event exploring Space, Al, and Tech.",    
     backgroundUrl: "./src/assets/benefits/card-6.svg",
     iconUrl: benefitIcon2,
     imageUrl: benefitImage2,
   },
 ];
 
+export const facultyEvents=[
+  {
+    id: "10",
+    title: "Soaring Skies",
+    text: "This Exhilarating event invites participants to unleash their inner aviators as they compete in the ultimate paper airplane challenge.",    
+    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+  },
+  {
+    id: "11",
+    title: "Tambola",
+    text: "'TAMBOLA' - Where luck meets excitement in a game of chance and anticipation! friends for an evening of fun and thrills as your play this beloved game, also known as Housie or Bingo.",    
+    backgroundUrl: "./src/assets/benefits/card-6.svg",
+    iconUrl: benefitIcon2,
+    imageUrl: benefitImage2,
+  },
+]
 export const socials = [
   {
     id: "0",
-    title: "Discord",
+    title: "Youtube",
     iconUrl: discordBlack,
-    url: "#",
+    url: "https://www.youtube.com/@JYCPhotographyClub",
   },
   {
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "https://x.com/JycJuit/",
   },
   {
     id: "2",
@@ -255,6 +305,6 @@ export const socials = [
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/jyc.juit/",
   },
 ];
