@@ -2,24 +2,25 @@
     "mentors" : [
         {
             "id": 1,
-            "name": "Mayank Kumar",
+            "name": "Srijan Saraswat",
             "designation": "Mentor",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp","linkedinUrl": "https://www.linkedin.com/in/racinmk/",
+            "imageUrl": "./src/assets/coordis/Srijan.JPG",
+            "linkedinUrl": "https://www.linkedin.com/in/racinmk/",
             "instagramUrl": "https://www.instagram.com/racinmk/"
         },
         {
             "id": 2,
-            "name": "Aditya Sood",
+            "name": "Yash Khatri",
             "designation": "Mentor",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/aditya-s-140312233/",
+            "imageUrl": "./src/assets/coordis/Yash.JPG",
+            "linkedinUrl": "./src/assets/coordis/Yash.JPG",
             "instagramUrl": ""
         },
         {
             "id": 3,
-            "name": "Anshul Sharma",
+            "name": "Akshit Mahajan",
             "designation": "Mentor",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/coordis/Akshit.JPG",
             "linkedinUrl": "https://www.linkedin.com/in/anshul-sharma-655817216/",
             "instagramUrl": "https://www.instagram.com/anshul_03_/"
         },
