@@ -235,15 +235,15 @@ export const benefits = [
 export const socials = [
   {
     id: "0",
-    title: "Discord",
+    title: "Youtube",
     iconUrl: discordBlack,
-    url: "#",
+    url: "https://www.youtube.com/@JYCPhotographyClub",
   },
   {
     id: "1",
     title: "Twitter",
     iconUrl: twitter,
-    url: "#",
+    url: "https://x.com/JycJuit/",
   },
   {
     id: "2",
@@ -255,6 +255,6 @@ export const socials = [
     id: "4",
     title: "Facebook",
     iconUrl: facebook,
-    url: "#",
+    url: "https://www.facebook.com/jyc.juit/",
   },
 ];
