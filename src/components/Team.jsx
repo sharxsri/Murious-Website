@@ -9,25 +9,25 @@ import Section from './Section';
 const mentors = [
     {
         "id": 1,
-        "name": "Srijan ",
+        "name": "Srijan Saraswat ",
         "designation": "Mentor",
-        "imageUrl": Mayank,
+        "imageUrl": "./coordis/Srijan.JPG",
         "linkedinUrl": "https://www.linkedin.com/in/racinmk/",
         "instagramUrl": "https://www.instagram.com/racinmk/"
     },
     {
         "id": 2,
-        "name": "Aditya Sood",
+        "name": "Yash Khatri ",
         "designation": "Mentor",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQFt4sjXev7FDA/profile-displayphoto-shrink_200_200/0/1668584452288?e=1710979200&v=beta&t=uqJrnFogiTutstTwGaqnawUK9VhwmKFTqtZ2TVLQmlA",
+        "imageUrl": "./coordis/Yash.JPG",
         "linkedinUrl": "https://www.linkedin.com/in/aditya-s-140312233/",
         "instagramUrl": ""
     },
     {
         "id": 3,
-        "name": "Anshul Sharma",
+        "name": "Akshit Mahajan",
         "designation": "Mentor",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQGkyYYomTgE6w/profile-displayphoto-shrink_200_200/0/1670225491470?e=1710979200&v=beta&t=O_kU1ZacaqLXrNaSa0XbAPG2XLUR9KLn4jRN5g4FoB4",
+        "imageUrl": "./coordis/Akshit.JPG",
         "linkedinUrl": "https://www.linkedin.com/in/anshul-sharma-655817216/",
         "instagramUrl": "https://www.instagram.com/anshul_03_/"
     },
