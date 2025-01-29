@@ -27,15 +27,15 @@ const mentors = [
         "id": 3,
         "name": "Akshit Mahajan",
         "designation": "Mentor",
-        "imageUrl": "./coordis/Akshit.JPG",
+        "imageUrl": "./coordis/Akshit 4.JPG",
         "linkedinUrl": "https://www.linkedin.com/in/anshul-sharma-655817216/",
         "instagramUrl": "https://www.instagram.com/anshul_03_/"
     },
     {
         "id": 4,
-        "name": "Manas Bajpai",
+        "name": "Ayush Rawat",
         "designation": "Mentor",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQFEovmErAbKlw/profile-displayphoto-shrink_200_200/0/1688559988133?e=1710979200&v=beta&t=iYN8jD3jmIon91DeCnAvWjp91hqrVWBT1tiVUFJJWPA",
+        "imageUrl": "./coordis/Ayush.JPG",
         "linkedinUrl": "https://www.linkedin.com/in/manas-bajpai/",
         "instagramUrl": "https://www.instagram.com/manas.bajpai_1804/"
     }
@@ -46,7 +46,7 @@ const teamleads = [
         "id": 1,
         "name": "Nivi Jha",
         "designation": "Mentor",
-        "imageUrl": Mayank,
+        "imageUrl": "./team leads/nivi jha.webp",
         "linkedinUrl": "https://www.linkedin.com/in/racinmk/",
         "instagramUrl": "https://www.instagram.com/racinmk/"
     },
@@ -62,7 +62,7 @@ const teamleads = [
         "id": 3,
         "name": "Raavi Aggarwal",
         "designation": "Mentor",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQGkyYYomTgE6w/profile-displayphoto-shrink_200_200/0/1670225491470?e=1710979200&v=beta&t=O_kU1ZacaqLXrNaSa0XbAPG2XLUR9KLn4jRN5g4FoB4",
+        "imageUrl": "./team leads/raavi aggarwal.webp",
         "linkedinUrl": "https://www.linkedin.com/in/anshul-sharma-655817216/",
         "instagramUrl": "https://www.instagram.com/anshul_03_/"
     },
@@ -81,7 +81,7 @@ const contributors = [
         "id": 1,
         "name": "Manik Kapoor",
         "designation": "Web Developer",
-        "imageUrl": Animesh,
+        "imageUrl": "./contributors/Manik-Kapoor.webp",
         "linkedinUrl": "https://www.linkedin.com/in/animesh07/",
         "instagramUrl": "https://www.instagram.com/Animesh_0764/"
     },
@@ -89,7 +89,7 @@ const contributors = [
         "id": 2,
         "name": "Rushil Sharma",
         "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQE6lsn231fIBQ/profile-displayphoto-shrink_400_400/0/1692437738344?e=1715212800&v=beta&t=eGgHbk8pLDxRXUKHyD252CR6v5DGtbd4x9-Kld1B8ig",
+        "imageUrl": "./src/assets/contributors/Rushil_Sharma.webp",
         "linkedinUrl": "https://www.linkedin.com/in/samson-vincent-julius/",
         "instagramUrl": "https://www.instagram.com/sam.v_julius/"
     },
@@ -103,17 +103,17 @@ const contributors = [
     },
     {
         "id": 4,
-        "name": "Srijan Saraswat",
-        "designation": "UI/UX Designer",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQF1BuULR9V5mg/profile-displayphoto-shrink_200_200/0/1701590576619?e=1710374400&v=beta&t=hSxjiXydy4lWsehTaAU2PO-jh2igNLNlV1_L600aixc",
+        "name": "Darshita Shukla",
+        "designation": "Web Developer",
+        "imageUrl":  "https://media.licdn.com/dms/image/D5603AQGDQXGriwporg/profile-displayphoto-shrink_400_400/0/1703404863726?e=1715212800&v=beta&t=fe2yrRbb2vzceIs0g6s-kkO6LNCioX5Aqwe78yamPnY",
         "linkedinUrl": "https://www.linkedin.com/in/srijan-saraswat/",
         "instagramUrl": "https://www.instagram.com/__.srijan_saraswat.__/"
     },
     {
         "id": 5,
-        "name": "Chaitanya Anchal",
-        "designation": "App Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D4E03AQF_jUiLnYNyMg/profile-displayphoto-shrink_400_400/0/1707843404355?e=1715212800&v=beta&t=bfVA0aYKpNgEUKzEB6atRZJnVeGeqnye7-O-AqgLY0k",
+        "name": "Sharanya ",
+        "designation": "Web Developer",
+        "imageUrl": "./src/assets/contributors/sharanya.photo.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/chaitanya-anchal/",
         "instagramUrl": "https://www.instagram.com/_chaitanya_.31/"
     },
