@@ -64,7 +64,7 @@
             "id": 1,
             "name": "Manik Kapoor",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "src/constants/Manik-Kapoor.jpg",
             "linkedinUrl": "https://www.linkedin.com/in/manik2375/",
             "instagramUrl": "https://www.instagram.com/manik_2375/"
         },
@@ -72,7 +72,7 @@
             "id": 2,
             "name": "Rushil Sharma",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "",
             "linkedinUrl": "https://www.linkedin.com/in/samson-vincent-julius/",
             "instagramUrl": "https://www.instagram.com/sam.v_julius/"
         },
@@ -88,7 +88,7 @@
             "id": 4,
             "name": "Srijan Saraswat",
             "designation": "UI/UX Designer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "src/components/Darshita Shukla.jpg",
             "linkedinUrl": "https://www.linkedin.com/in/srijan-saraswat/",
             "instagramUrl": "https://www.instagram.com/__.srijan_saraswat.__/"
         },
@@ -112,7 +112,7 @@
             "id": 7,
             "name": "Devank",
             "designation": "Web & App Dev",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "src/components/Shoaib .jpg",
             "linkedinUrl": "https://www.linkedin.com/in/devank-",
             "instagramUrl": "https://www.instagram.com/dev_n_k_"
         },
@@ -128,7 +128,7 @@
             "id": 9,
             "name": "Aarya Gupta",
             "designation": "Web & App Dev",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "src/components/KundanWEB.jpg",
             "linkedinUrl": "https://www.linkedin.com/in/aarya--gupta/",
             "instagramUrl": "https://www.instagram.com/aaryaa_.0/"
         },
@@ -136,7 +136,7 @@
             "id": 10,
             "name": "Kavya Sharma",
             "designation": "Web & App Dev",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "src/components/Hardik Mittal.jpg",
             "linkedinUrl": "https://www.linkedin.com/in/kavya--sharma/",
             "instagramUrl": "https://www.instagram.com/_kavyasharma.j.m/"
         },

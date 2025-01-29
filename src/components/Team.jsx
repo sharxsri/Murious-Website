@@ -81,7 +81,7 @@ const contributors = [
         "id": 1,
         "name": "Manik Kapoor",
         "designation": "Web Developer",
-        "imageUrl": Animesh,
+        "imageUrl": "src/constants/Manik-Kapoor.jpg"
         "linkedinUrl": "https://www.linkedin.com/in/animesh07/",
         "instagramUrl": "https://www.instagram.com/Animesh_0764/"
     },
@@ -89,7 +89,7 @@ const contributors = [
         "id": 2,
         "name": "Rushil Sharma",
         "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQE6lsn231fIBQ/profile-displayphoto-shrink_400_400/0/1692437738344?e=1715212800&v=beta&t=eGgHbk8pLDxRXUKHyD252CR6v5DGtbd4x9-Kld1B8ig",
+        "imageUrl": "",
         "linkedinUrl": "https://www.linkedin.com/in/samson-vincent-julius/",
         "instagramUrl": "https://www.instagram.com/sam.v_julius/"
     },
@@ -105,7 +105,7 @@ const contributors = [
         "id": 4,
         "name": "Srijan Saraswat",
         "designation": "UI/UX Designer",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQF1BuULR9V5mg/profile-displayphoto-shrink_200_200/0/1701590576619?e=1710374400&v=beta&t=hSxjiXydy4lWsehTaAU2PO-jh2igNLNlV1_L600aixc",
+        "imageUrl": "src/components/Darshita Shukla.jpg"
         "linkedinUrl": "https://www.linkedin.com/in/srijan-saraswat/",
         "instagramUrl": "https://www.instagram.com/__.srijan_saraswat.__/"
     },
@@ -121,7 +121,7 @@ const contributors = [
         "id": 6,
         "name": "Dhaarna",
         "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQGpyEtKocU5fQ/profile-displayphoto-shrink_400_400/0/1705302782813?e=1710979200&v=beta&t=DhxdTHoClPvVzb8e6BZZKK3CWdAmrJub-7ieW5ei-8o",
+        "imageUrl": "src/components/Shoaib .jpg",
         "linkedinUrl": "https://www.linkedin.com/in/dhaarna-thakur-681061286",
         "instagramUrl": "https://www.instagram.com/dhaarnathakur_"
     },
@@ -129,7 +129,7 @@ const contributors = [
         "id": 7,
         "name": "Devank",
         "designation": "Web & App Dev",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQE3LUCu5OwZBA/profile-displayphoto-shrink_400_400/0/1708109979071?e=1715212800&v=beta&t=rX0CZCHMN5my0sQPhGSj0XNaoTvlajFQJQINjIjmQgs",
+        "imageUrl": "://media.licdn.com/dms/imagehttps/D5603AQE3LUCu5OwZBA/profile-displayphoto-shrink_400_400/0/1708109979071?e=1715212800&v=beta&t=rX0CZCHMN5my0sQPhGSj0XNaoTvlajFQJQINjIjmQgs",
         "linkedinUrl": "https://www.linkedin.com/in/devank-",
         "instagramUrl": "https://www.instagram.com/dev_n_k_"
     },
@@ -137,7 +137,7 @@ const contributors = [
         "id": 8,
         "name": "Shivansh",
         "designation": "Web & App Dev",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQFWT91jXiHwQg/profile-displayphoto-shrink_400_400/0/1704621626973?e=1710374400&v=beta&t=A-wvtO7ny5Xmh8NykdIaNSmYPUjR8yzko9wa2lbywI4",
+        "imageUrl": "",
         "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
         "instagramUrl": "https://www.instagram.com/shivansh2_55/"
     },
@@ -145,7 +145,7 @@ const contributors = [
         "id": 9,
         "name": "Aarya Gupta",
         "designation": "Web & App Dev",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQEkev3uuKqTvQ/profile-displayphoto-shrink_200_200/0/1705420052014?e=1710979200&v=beta&t=GICuwAHHKssu2eFj3-YjnJBXPcnXoFV-OajyPiSjw7A",
+        "imageUrl": "src/components/KundanWEB.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/aarya--gupta/",
         "instagramUrl": "https://www.instagram.com/aaryaa_.0/"
     },
@@ -153,7 +153,7 @@ const contributors = [
         "id": 10,
         "name": "Kavya Sharma",
         "designation": "Web & App Dev",
-        "imageUrl": "https://media.licdn.com/dms/image/D4E03AQFdKE9C5IhPjg/profile-displayphoto-shrink_400_400/0/1698336771661?e=1711584000&v=beta&t=WGYpPYKK9wrzTI5YECEIE4fZZhd3-Vwvmq7wmtuONhI",
+        "imageUrl": "src/components/Hardik Mittal.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/kavya--sharma/",
         "instagramUrl": "https://www.instagram.com/_kavyasharma.j.m/"
     },
