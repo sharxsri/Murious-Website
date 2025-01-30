@@ -98,7 +98,7 @@ const contributors = [
         "id": 3,
         "name": "Aarushi Kansal",
         "designation": "Web Developer",
-        "imageUrl": "Screenshot 2025-01-29 234432.png",
+        "imageUrl": "src/Screenshot 2025-01-29 234432.webp",
         "linkedinUrl": "https://www.linkedin.com/in/yash-khatri-29b956251/",
         "instagramUrl": "https://www.instagram.com/yashkhatri99/"
     },
@@ -122,7 +122,7 @@ const contributors = [
         "id": 6,
         "name": "Ananya",
         "designation": "Web Developer",
-        "imageUrl": "Screenshot 2025-01-29 235056.png",
+        "imageUrl": "src/1737783882203 (1).webp",
         "linkedinUrl": "https://www.linkedin.com/in/dhaarna-thakur-681061286",
         "instagramUrl": "https://www.instagram.com/dhaarnathakur_"
     },
@@ -136,9 +136,9 @@ const contributors = [
     },
     {
         "id": 8,
-        "name": "Shivansh",
+        "name": "Jeetansh",
         "designation": "Web & App Dev",
-        "imageUrl": "Screenshot 2025-01-29 235322.png",
+        "imageUrl": "src/Screenshot 2025-01-29 235322.webp",
         "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
         "instagramUrl": "https://www.instagram.com/shivansh2_55/"
     },
