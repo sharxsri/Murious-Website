@@ -5,16 +5,20 @@ import Section from "./Section";
 import Arrow from "../assets/svg/Arrow";
 import { GradientLight } from "./design/Benefits";
 import ClipPath from "../assets/svg/ClipPath";
-import Countdown from "./Countdown/Countdown"
-import MobileCountdown from "./Countdown/MobileCountdown"
-
+import Countdown from "./Countdown/Countdown";
+import MobileCountdown from "./Countdown/MobileCountdown";
 
 const Benefits = () => {
   return (
     <Section id="events">
-      <Countdown/>
-      <MobileCountdown/>
-      <br/><br/><br/><br/><br/> 
+      <div  className="hidden 2xl:block mt-4 mb-24" >
+        <Countdown/>
+      </div>
+      <div  className="2xl:hidden mt-8 mb-24" >
+        <MobileCountdown/>
+      </div>
+
+
       <div className="container relative z-2">
         <Heading className="md:max-w-md lg:max-w-2xl" title="Events" />
         <div
