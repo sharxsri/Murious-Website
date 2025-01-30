@@ -98,9 +98,9 @@ const contributors = [
         "id": 3,
         "name": "Aarushi Kansal",
         "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQGDQXGriwporg/profile-displayphoto-shrink_400_400/0/1703404863726?e=1715212800&v=beta&t=fe2yrRbb2vzceIs0g6s-kkO6LNCioX5Aqwe78yamPnY",
-        "linkedinUrl": "https://www.linkedin.com/in/aarushi-kansal-12b77731a/",
-        "instagramUrl": "https://www.instagram.com/aarrusshi/"
+        "imageUrl": "Screenshot 2025-01-29 234432.png",
+        "linkedinUrl": "https://www.linkedin.com/in/yash-khatri-29b956251/",
+        "instagramUrl": "https://www.instagram.com/yashkhatri99/"
     },
     {
         "id": 4,
@@ -122,9 +122,9 @@ const contributors = [
         "id": 6,
         "name": "Ananya",
         "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQGpyEtKocU5fQ/profile-displayphoto-shrink_400_400/0/1705302782813?e=1710979200&v=beta&t=DhxdTHoClPvVzb8e6BZZKK3CWdAmrJub-7ieW5ei-8o",
-        "linkedinUrl": "https://www.linkedin.com/in/ananya-soam-02b79231a/",
-        "instagramUrl": "https://www.instagram.com/ananya_7467/"
+        "imageUrl": "Screenshot 2025-01-29 235056.png",
+        "linkedinUrl": "https://www.linkedin.com/in/dhaarna-thakur-681061286",
+        "instagramUrl": "https://www.instagram.com/dhaarnathakur_"
     },
     {
         "id": 7,
@@ -136,11 +136,11 @@ const contributors = [
     },
     {
         "id": 8,
-        "name": "Jeetansh Arora",
-        "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D5603AQFWT91jXiHwQg/profile-displayphoto-shrink_400_400/0/1704621626973?e=1710374400&v=beta&t=A-wvtO7ny5Xmh8NykdIaNSmYPUjR8yzko9wa2lbywI4",
-        "linkedinUrl": "https://www.linkedin.com/in/jeetansh-arora-150863321/",
-        "instagramUrl": "https://www.instagram.com/jeetxilot/"
+        "name": "Shivansh",
+        "designation": "Web & App Dev",
+        "imageUrl": "Screenshot 2025-01-29 235322.png",
+        "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
+        "instagramUrl": "https://www.instagram.com/shivansh2_55/"
     },
     {
         "id": 9,
