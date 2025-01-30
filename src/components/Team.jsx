@@ -47,7 +47,8 @@ const teamleads = [
         "id": 1,
         "name": "Nivi Jha",
         "designation": "Mentor",
-        "imageUrl": Mayank,
+
+        "imageUrl": "./team leads/nivi jha.webp",
         "linkedinUrl": "https://www.linkedin.com/in/nivi-jha/",
         "instagramUrl": "https://www.instagram.com/niv__._/"
     },
@@ -63,7 +64,7 @@ const teamleads = [
         "id": 3,
         "name": "Raavi Aggarwal",
         "designation": "Mentor",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQGkyYYomTgE6w/profile-displayphoto-shrink_200_200/0/1670225491470?e=1710979200&v=beta&t=O_kU1ZacaqLXrNaSa0XbAPG2XLUR9KLn4jRN5g4FoB4",
+        "imageUrl": "./team leads/raavi aggarwal.webp",
         "linkedinUrl": "https://www.linkedin.com/in/raavi-aggarwal-766ab32a4/",
         "instagramUrl": "https://www.instagram.com/raavi_aggarwal28/"
     },
@@ -82,7 +83,7 @@ const contributors = [
         "id": 1,
         "name": "Manik Kapoor",
         "designation": "Web Developer",
-        "imageUrl": Animesh,
+        "imageUrl": "./contributors/Manik-Kapoor.webp",
         "linkedinUrl": "https://www.linkedin.com/in/manik2375/",
         "instagramUrl": "https://www.instagram.com/manik_2375/"
     },
@@ -90,7 +91,7 @@ const contributors = [
         "id": 2,
         "name": "Rushil Sharma",
         "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQE6lsn231fIBQ/profile-displayphoto-shrink_400_400/0/1692437738344?e=1715212800&v=beta&t=eGgHbk8pLDxRXUKHyD252CR6v5DGtbd4x9-Kld1B8ig",
+        "imageUrl": "./src/assets/contributors/Rushil_Sharma.webp",
         "linkedinUrl": "https://www.linkedin.com/in/codewithrushil/",
         "instagramUrl": "https://www.instagram.com/rushil.in/"
     },
@@ -106,15 +107,15 @@ const contributors = [
         "id": 4,
         "name": "Darshita Shukla",
         "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D4D03AQF1BuULR9V5mg/profile-displayphoto-shrink_200_200/0/1701590576619?e=1710374400&v=beta&t=hSxjiXydy4lWsehTaAU2PO-jh2igNLNlV1_L600aixc",
+        "imageUrl":  "https://media.licdn.com/dms/image/D5603AQGDQXGriwporg/profile-displayphoto-shrink_400_400/0/1703404863726?e=1715212800&v=beta&t=fe2yrRbb2vzceIs0g6s-kkO6LNCioX5Aqwe78yamPnY",
         "linkedinUrl": "https://www.linkedin.com/in/darshita-shukla-743510323/",
         "instagramUrl": "https://www.instagram.com/darshita_2006/"
     },
     {
         "id": 5,
-        "name": "Sharanya Srivastava",
+        "name": "Sharanya ",
         "designation": "Web Developer",
-        "imageUrl": "https://media.licdn.com/dms/image/D4E03AQF_jUiLnYNyMg/profile-displayphoto-shrink_400_400/0/1707843404355?e=1715212800&v=beta&t=bfVA0aYKpNgEUKzEB6atRZJnVeGeqnye7-O-AqgLY0k",
+        "imageUrl": "./src/assets/contributors/sharanya.photo.jpg",
         "linkedinUrl": "https://www.linkedin.com/in/sharanya-srivastava-9a1669313/",
         "instagramUrl": "https://www.linkedin.com/in/sharanya-srivastava-9a1669313/"
     },
