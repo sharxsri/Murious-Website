@@ -20,7 +20,7 @@
             "id": 3,
             "name": "Akshit Mahajan",
             "designation": "Mentor",
-            "imageUrl": "./src/assets/coordis/Akshit.JPG",
+            "imageUrl": "./src/assets/coordis/Akshit 4.JPG",
             "linkedinUrl": "https://www.linkedin.com/in/akshit0mahajan/",
             "instagramUrl": "https://www.instagram.com/_akshitmahajan/"
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "name": "Ayush Rawat",
             "designation": "Mentor",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/coordis/Ayush.JPG",
             "linkedinUrl": "https://www.linkedin.com/in/ayush-rawat-519b12255/",
             "instagramUrl": "https://www.instagram.com/ayusshh_rawat/"
         }
@@ -39,8 +39,7 @@
             "id": 1,
             "name": "Nivi Jha",
             "designation": "Mentor",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/nivi-jha/",
+            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp","linkedinUrl": "https://www.linkedin.com/in/nivi-jha/",
             "instagramUrl": "https://www.instagram.com/niv__._/"
         },
         {
@@ -55,7 +54,7 @@
             "id": 3,
             "name": "Raavi Aggarwal",
             "designation": "Mentor",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/team leads/raavi aggarwal.webp",
             "linkedinUrl": "https://www.linkedin.com/in/raavi-aggarwal-766ab32a4/",
             "instagramUrl": "https://www.instagram.com/raavi_aggarwal28/"
         }
@@ -65,7 +64,7 @@
             "id": 1,
             "name": "Manik Kapoor",
             "designation": "Web Developer",
-            "imageUrl": "src/constants/Manik-Kapoor.jpg",
+            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
             "linkedinUrl": "https://www.linkedin.com/in/manik2375/",
             "instagramUrl": "https://www.instagram.com/manik_2375/"
         },
@@ -73,7 +72,7 @@
             "id": 2,
             "name": "Rushil Sharma",
             "designation": "Web Developer",
-            "imageUrl": "",
+            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
             "linkedinUrl": "https://www.linkedin.com/in/samson-vincent-julius/",
             "instagramUrl": "https://www.instagram.com/sam.v_julius/"
         },
@@ -81,9 +80,9 @@
             "id": 3,
             "name": "Aarushi Kansal",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/aarushi-kansal-12b77731a/",
-            "instagramUrl": "https://www.instagram.com/aarrusshi/"
+            "imageUrl": "src/Screenshot 2025-01-29 234432.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/yash-khatri-29b956251/",
+            "instagramUrl": "https://www.instagram.com/yashkhatri99/"
         },
         {
             "id": 4,
@@ -95,20 +94,19 @@
         },
         {
             "id": 5,
-            "name": "Sharanya Srivastava",
+            "name": "Sharanya",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
+            "imageUrl": "./src/assets/contributors/sharanya.photo.jpg",
             "linkedinUrl": "https://www.linkedin.com/in/sharanya-srivastava-9a1669313/",
             "instagramUrl": "https://www.instagram.com/sharxsri/"
-
         },
         {
             "id": 6,
             "name": "Ananya",
             "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/ananya-soam-02b79231a/",
-            "instagramUrl": "https://www.instagram.com/ananya_7467/"
+            "imageUrl": "src/1737783882203 (1).webp",
+            "linkedinUrl": "https://www.linkedin.com/in/dhaarna-thakur-681061286",
+            "instagramUrl": "https://www.instagram.com/dhaarnathakur_"
         },
         {
             "id": 7,
@@ -120,11 +118,11 @@
         },
         {
             "id": 8,
-            "name": "Jeetansh Arora",
-            "designation": "Web Developer",
-            "imageUrl": "https://murious.jyc.co.in/assets/Animesh-TthVDULw.webp",
-            "linkedinUrl": "https://www.linkedin.com/in/jeetansh-arora-150863321/",
-            "instagramUrl": "https://www.instagram.com/jeetxilot/"
+            "name": "Jeetansh",
+            "designation": "Web & App Dev",
+            "imageUrl": "src/Screenshot 2025-01-29 235322.webp",
+            "linkedinUrl": "https://www.linkedin.com/in/shivansh-mahajan-a04301252/",
+            "instagramUrl": "https://www.instagram.com/shivansh2_55/"
         },
         {
             "id": 9,
